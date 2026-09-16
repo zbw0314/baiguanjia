@@ -1,16 +1,29 @@
-## Hi there 👋
+# 白管家殡葬服务
 
-<!--
-**zbw0314/zbw0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**白管家——全国专业殡葬服务品牌**
 
-Here are some ideas to get you started:
+提供24小时遗体接运、净身穿衣、灵堂布置、火化代办、数字纪念等一站式白事服务。  
+明码标价，正规备案，服务覆盖全国主要城市。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 24小时服务热线
+**17715233570**
+
+### 我们的核心服务
+- 遗体接运（24小时响应）
+- 净身穿衣与入殓
+- 灵堂布置与告别仪式
+- 火化代办与手续办理
+- 骨灰安置咨询
+- 数字人纪念 / 人生微电影
+
+### 为什么选择白管家
+- 正规备案，透明收费
+- 专业礼仪师团队
+- 全国连锁服务网络
+- 一站式省心办理
+
+### 知识库与详细资料
+正在建设中，敬请期待...
+
+---
+白管家，让每一次告别都更从容。
